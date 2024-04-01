@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-content {
+    width: 200px;
+    height: 200px;
+}
